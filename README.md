@@ -2,10 +2,6 @@
 
 A complete authentication system which can be used as a starter code for creating any new application.
 
-## Web App Link
-
-https://nodejs-authentication-system.herokuapp.com/
-
 ![Screenshot](https://user-images.githubusercontent.com/70250104/148709640-1751b874-f674-4f5b-8fba-0e9dd7ee87ee.PNG)
 
 ## Requirements
